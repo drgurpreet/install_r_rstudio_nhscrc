@@ -1,0 +1,29 @@
+# Step1: Install R
+
+## Go to CRAN repository <https://cran.rstudio.com/>
+
+![](images/repo.png)
+
+## Click on Download R 
+
+Choose according to your operating system
+
+## Click on install R for the first time
+
+![](images/install_r.png)
+
+## Click on download 
+
+![](images/download.png)
+
+## Go to downloaded folder and open file for installation
+
+![](images/installation.png)
+
+## Follow the default settings and complete installation
+
+On completion, you will be able to see the R Icon on your desktop/ program files
+
+![](images/Rlogo.JPG)
+
+

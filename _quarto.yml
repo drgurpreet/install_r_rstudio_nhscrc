@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: "."
+
+website:
+  title: "Steps to Download and install R and RStudio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Step_1
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 3
+
+
+

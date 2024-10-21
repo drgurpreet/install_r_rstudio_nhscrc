@@ -1,0 +1,17 @@
+# Step 2: Install RStudio
+
+## Go to Posit website <https://posit.co/download/rstudio-desktop/>
+
+![](images/posit.png)
+
+## Click on download RStudio.
+
+![](images/download_rstudio.png)
+
+## Follow steps for default set-up.
+
+Once installed, you will be able to see the RStudio logo 
+
+![](images/RStudiologo.png)
+
+**Thats all!!**
